@@ -1,0 +1,6 @@
+{
+  "name": "Travel Planner",
+  "description": "블랙&화이트 스타일의 여행 일정 플래너 및 실시간 항공권/취소표 모니터링 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
